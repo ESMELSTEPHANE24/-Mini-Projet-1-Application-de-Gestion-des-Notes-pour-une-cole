@@ -1,4 +1,4 @@
-# -Mini-Projet-1-Application-de-Gestion-des-Notes-pour-une-école
+# Mini-Projet-1-Application-de-Gestion-des-Notes-pour-une-école
 Développement d'une application java pour gérer les notes des étudiants dans une école.
 
 Gestion des Notes des Étudiants
