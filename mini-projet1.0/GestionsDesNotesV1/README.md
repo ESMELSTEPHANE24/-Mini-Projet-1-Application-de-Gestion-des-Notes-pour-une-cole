@@ -22,7 +22,7 @@ Cette application Java permet de gérer les classes, les étudiants, les matièr
 2. Naviguez jusqu'au répertoire contenant le fichier JAR.
 3. Exécutez le fichier JAR :
    ```sh
-   java -jar gestion-notes-etudiants.jar
+   java -jar Gestion_Des_Notes-Etudiants.jar
 
 Fonctionnalités
 
